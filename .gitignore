@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+server/models/Offers.js
+server/server-flask/
+
+

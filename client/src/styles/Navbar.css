@@ -30,3 +30,16 @@
 .nav-links li:hover {
   color: #3b82f6;
 }
+.nav-links a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  color: #3b82f6;
+}
+
+.navbar h2 a {
+  color: inherit;
+  text-decoration: none;
+}
